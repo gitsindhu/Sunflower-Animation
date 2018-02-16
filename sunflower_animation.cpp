@@ -7,6 +7,7 @@
 #define SUNFLOWER_STEM_WITH_LEAVES 2
 
 /*This is the new line inserted*/
+/*This is the second line */
 int n;
 int paused = 0;//initially don't pause.
 short int direction = 1;//0 - clockwise, 1 - anti-clockwise.
